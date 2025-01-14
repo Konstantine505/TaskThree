@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090076118014",
+    "project_id": "homeworkthree-d496f",
+    "storage_bucket": "homeworkthree-d496f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090076118014:android:f8ac7ef152cd434befceaf",
+        "android_client_info": {
+          "package_name": "com.example.taskthree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkbJ1ilHXUQuzTy32YZVUU9GwMjDD0iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
